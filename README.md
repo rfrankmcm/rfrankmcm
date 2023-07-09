@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - I've been dabbling in C++ for many years, but it's been an uphill battle.
+- I'm still a novice.
 - I'm not the programming sort of person.
 - Fun things like reading and sitting still are challenges for me.
 - Despite myself, I enjoy learning and programming.
